@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mssql": "^7.2.1"
+  },
+  "name": "node-mssql",
+  "version": "1.0.0",
+  "description": "tutorial de node com sql server",
+  "main": "index.js",
+  "author": "Sergio Gama",
+  "license": "ISC"
+}
